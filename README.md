@@ -1,7 +1,7 @@
 # Assesment Muhammad Haitsam Izzuddin Azman
 
 ## CI/CD Pages
-
+https://sam9100.github.io/ass_MuhammadHaitsamIzzuddinAzman/
 
 ### Codingan Index
 ``` js
